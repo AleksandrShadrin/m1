@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetApp.Domain", "MeetApp.Domain\MeetApp.Domain.csproj", "{B21DF1B8-BC28-49C7-B33E-C6AD8B199E40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetApp.Application", "MeetApp.Application\MeetApp.Application.csproj", "{BB07388C-6A7A-4D7A-B4E9-65A7A13293DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetApp.Infrastructure", "MeetApp.Infrastructure\MeetApp.Infrastructure.csproj", "{4DB10481-F770-4F64-B78C-42ADAA14029E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetApp.Presentation", "MeetApp.Presentation\MeetApp.Presentation.csproj", "{659079FB-CE35-4CE4-807E-A67A5421F1CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B21DF1B8-BC28-49C7-B33E-C6AD8B199E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21DF1B8-BC28-49C7-B33E-C6AD8B199E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21DF1B8-BC28-49C7-B33E-C6AD8B199E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21DF1B8-BC28-49C7-B33E-C6AD8B199E40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB07388C-6A7A-4D7A-B4E9-65A7A13293DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB07388C-6A7A-4D7A-B4E9-65A7A13293DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB07388C-6A7A-4D7A-B4E9-65A7A13293DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB07388C-6A7A-4D7A-B4E9-65A7A13293DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DB10481-F770-4F64-B78C-42ADAA14029E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB10481-F770-4F64-B78C-42ADAA14029E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB10481-F770-4F64-B78C-42ADAA14029E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB10481-F770-4F64-B78C-42ADAA14029E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{659079FB-CE35-4CE4-807E-A67A5421F1CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659079FB-CE35-4CE4-807E-A67A5421F1CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659079FB-CE35-4CE4-807E-A67A5421F1CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659079FB-CE35-4CE4-807E-A67A5421F1CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
